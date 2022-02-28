@@ -27,6 +27,7 @@ public class Demo {
 		System.out.println(" no of rows updated is "+rs);
 		st.close();
 		con.close();//Close connection
+
 	}
 }
 		
